@@ -1,0 +1,19 @@
+{
+	"properties": [
+		{
+			"name": "fbs.app.jwt-cookie-name",
+			"type": "java.lang.String",
+			"description": "A description for 'fbs.app.jwt-cookie-name'"
+		},
+		{
+			"name": "fbs.app.jwtExpirationMs",
+			"type": "java.lang.String",
+			"description": "A description for 'fbs.app.jwtExpirationMs'"
+		},
+		{
+			"name": "fbs.app.jwtSecret",
+			"type": "java.lang.String",
+			"description": "A description for 'fbs.app.jwtSecret'"
+		}
+	]
+}

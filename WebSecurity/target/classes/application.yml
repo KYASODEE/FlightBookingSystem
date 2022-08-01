@@ -1,0 +1,18 @@
+#server:
+#  port: 9005
+  
+#spring:
+#  data:
+#    mongodb:
+#      database: Flight_Reservation_System
+#      host: localhost
+#      port: 27017
+#  application:
+#    name: web_security-service
+
+#fbs:
+#  app:
+#    jwtCookieName: fbs
+#    jwtExpirationMs: 86400000
+#    jwtSecret: fbsSecretKey
+
